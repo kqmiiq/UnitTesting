@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e177bc0e-29ef-4caf-8f49-3c7ad703c9da" name="Default Changelist" comment="" />
+    <list default="true" id="cbcb9c52-7ab8-4f14-a9f0-cb01c13bc61a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,29 +16,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="9" lean-forward="true" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Changed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="93" column="22" lean-forward="true" selection-end-line="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="21" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="212">
+              <caret line="19" column="23" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Reverse.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ChangedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="74" column="13" lean-forward="true" selection-end-line="79" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ReverseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="21" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="26" lean-forward="true" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -56,8 +65,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Reverse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Program.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ChangedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Changed.java" />
       </list>
     </option>
   </component>
@@ -67,56 +76,15 @@
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
-  <component name="ProjectId" id="1jEuL0eZjDyJcZeTxpSCTzG7OAF" />
+  <component name="ProjectId" id="1jF2QS63b7Zy3Vdogeg3gpsWrHb" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Test7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -130,7 +98,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test7" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -153,18 +121,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseTest.arr">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program" />
-      <module name="Test7" />
+      <module name="Test9" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseTest.arr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test7" />
+    <configuration name="ChangedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test9" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReverseTest" />
+      <option name="MAIN_CLASS_NAME" value="ChangedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangedTest.arr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChangedTest" />
       <option name="METHOD_NAME" value="arr" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -173,8 +150,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReverseTest.arr" />
         <item itemvalue="Application.Program" />
+        <item itemvalue="JUnit.ChangedTest.arr" />
+        <item itemvalue="JUnit.ChangedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -183,61 +161,72 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e177bc0e-29ef-4caf-8f49-3c7ad703c9da" name="Default Changelist" comment="" />
-      <created>1603381512557</created>
+      <changelist id="cbcb9c52-7ab8-4f14-a9f0-cb01c13bc61a" name="Default Changelist" comment="" />
+      <created>1603385502286</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603381512557</updated>
-      <workItem from="1613114224098" duration="3316000" />
+      <updated>1603385502286</updated>
+      <workItem from="1613113817902" duration="2931000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseTest_arr - 2021.02.12 at 13h 18m 44s.xml">
-      <configuration name="ReverseTest.arr" configurationId="JUnit" />
+    <history-entry file="ChangedTest_arr - 2021.02.12 at 13h 13m 16s.xml">
+      <configuration name="ChangedTest.arr" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseTest_arr - 2021.02.12 at 13h 47m 24s.xml">
-      <configuration name="ReverseTest.arr" configurationId="JUnit" />
+    <history-entry file="ChangedTest - 2021.02.12 at 13h 14m 33s.xml">
+      <configuration name="ChangedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseTest_arr - 2021.02.12 at 14h 00m 56s.xml">
-      <configuration name="ReverseTest.arr" configurationId="JUnit" />
+    <history-entry file="ChangedTest - 2021.02.12 at 13h 15m 07s.xml">
+      <configuration name="ChangedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseTest_arr - 2021.02.12 at 14h 44m 22s.xml">
-      <configuration name="ReverseTest.arr" configurationId="JUnit" />
+    <history-entry file="ChangedTest_arr - 2021.02.12 at 13h 15m 54s.xml">
+      <configuration name="ChangedTest.arr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangedTest - 2021.02.12 at 13h 34m 31s.xml">
+      <configuration name="ChangedTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangedTest_arr - 2021.02.12 at 13h 34m 37s.xml">
+      <configuration name="ChangedTest.arr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangedTest_arr - 2021.02.12 at 13h 34m 44s.xml">
+      <configuration name="ChangedTest.arr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangedTest_arr - 2021.02.12 at 14h 02m 21s.xml">
+      <configuration name="ChangedTest.arr" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3316000" />
+    <option name="totallyTimeSpent" value="2931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24899329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41218132" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29036826" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -248,50 +237,61 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="248" key="GridCell.Tab.0.bottom" timestamp="1603385303921">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1603396422442">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603385303921" />
-    <state width="1493" height="248" key="GridCell.Tab.0.center" timestamp="1603385303920">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603396422442" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1603396422441">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603385303920" />
-    <state width="1493" height="248" key="GridCell.Tab.0.left" timestamp="1603385303920">
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603396422441" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1603396422441">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603385303920" />
-    <state width="1493" height="248" key="GridCell.Tab.0.right" timestamp="1603385303921">
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603396422441" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1603396422442">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603385303921" />
-    <state x="277" y="75" key="SettingsEditor" timestamp="1603385256521">
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603396422442" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1603387235631">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603385256521" />
-    <state x="540" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603384826309">
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603387235631" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1603803208967">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="540" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1603384826309" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1603803208967" />
+    <state x="540" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603386876016">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="540" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1603386876016" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="212">
+          <caret line="19" column="23" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Reverse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Changed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="74" column="13" lean-forward="true" selection-end-line="79" selection-end-column="1" />
+        <state relative-caret-position="297">
+          <caret line="93" column="22" lean-forward="true" selection-end-line="100" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ChangedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="21" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="26" lean-forward="true" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" lean-forward="true" selection-end-line="19" selection-end-column="10" />
         </state>
       </provider>
     </entry>
